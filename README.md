@@ -1,8 +1,8 @@
-# Log-Analysis-Udacity-Project
+# Logs_Analysis
 A reporting tool that prints out reports based on data from a web server's database.
 
-## Intro
-The information in this database is a newspaper website's raw data that contains articles, the author of articles, and entries for each time a user accessed the website. The purpose of this reporting tool is to determine the most popular three articles of all time, the most popular article authors of all time, and the days on which more than 1% of requests lead to errors.
+## About
+The reporting tool built with Python and SQL that uses a newspaper website's raw data. The data contains articles, the author of articles, and entries for each time a user accessed the website. The purpose of this reporting tool is to determine the most popular three articles of all time, the most popular article authors of all time, and the days on which more than 1% of requests lead to errors.
 
 
 
